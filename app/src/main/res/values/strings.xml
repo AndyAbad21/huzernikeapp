@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">huzernikeapp</string>
+    <string-array name="moment_options">
+        <item>Momentos de Hu</item>
+        <item>Momentos de Zernike</item>
+    </string-array>
+</resources>
